@@ -17,7 +17,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "jest":{
     "verbose": true,
